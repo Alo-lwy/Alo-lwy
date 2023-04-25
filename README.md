@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Alo-lwy "![Anurag's github stats")](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gongchenjie)](https://github.com/Christmas/github-readme-stats)
 
 
-- 🌱 I’m currently Gong Chenjie super-big-fans
+- 🌱 I’m currently 
 - 🔭 I’m currently working on forecast, ml, statistic model
 - 🌱 I’m currently learning dl
 - 👯 I’m looking to collaborate on google summer coding
